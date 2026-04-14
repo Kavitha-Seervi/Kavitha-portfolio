@@ -1,8 +1,37 @@
-# React + Vite
+# 🌐 Kavitha H Seervi – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website showcasing my projects, skills, and experience.
+## 🚀 Live Website
+👉 https://kavithah-dev.vercel.app
 
-Currently, two official plugins are available:
+## 📌 Features
+- Fully responsive (Mobile + Desktop)
+- Smooth scrolling navigation
+- Interactive UI with modern design
+- Projects showcase with detailed descriptions
+- Internship & Volunteer experience sections
+- Resume download option
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React.js
+- Vite
+- HTML5, CSS3
+- JavaScript
+
+## 📂 Sections
+- About Me
+- Skills
+- Projects
+- Internship
+- Volunteer Experience
+- Education
+- Contact
+
+
+## 📬 Contact
+- 📧 Email: kavithahseervi8147@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/kavithahseervi
+
+---
+
+⭐ If you like this project, feel free to star it!
