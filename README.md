@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio website showcasing my projects, skills, and experience.
 ## 🚀 Live Website
-👉 https://kavithah-dev.vercel.app
+👉 https://kavitha-portfolio-gilt.vercel.app/
 
 ## 📌 Features
 - Fully responsive (Mobile + Desktop)
